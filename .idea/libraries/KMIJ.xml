@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="KMIJ">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/KMIJ.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
